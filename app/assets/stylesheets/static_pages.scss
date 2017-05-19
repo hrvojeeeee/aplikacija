@@ -5,13 +5,20 @@ body {
   overflow-x: hidden;
 }
 
-h1,
-h2 {
+h1 {
   color: #34495e;
   font-family: Futura, Helvetica, Arial, sans-serif;
   font-size: 4em;
   padding: 5% 0% 0%; 
   text-align: center;
+}
+
+h2 {
+  color: #34495e;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  font-size: 3em;
+  text-align: center;
+  padding:2 % 0% 0%;
 }
 
 footer {
